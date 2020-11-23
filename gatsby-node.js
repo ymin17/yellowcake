@@ -45,6 +45,8 @@ exports.createPages = ({ actions, graphql }) => {
 
       pagesToCreate.forEach((page, index) => {
         const id = page.node.id
+        console.log('page::', page)
+        console.log('PATH::::', page.node.fields.slug)
         createPage({
           // page slug set in md frontmatter
           path: page.node.fields.slug,

@@ -1,12 +1,13 @@
 :root {
-  --primary: #00c2bd;
+  --primary: #015756;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
-  --font-primary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  --font-primary: "Karla", sans-serif;
+  --font-system: Karla;
+  /* --font-system: system-ui; postcssPresetEnv */
   --borderRadius: 3px;
 }
 
