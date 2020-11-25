@@ -72,30 +72,31 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/components/">Components</NavLink>
-            <div
+            <NavLink to="/about/">About</NavLink>
+            <NavLink to="/productions/">Productions</NavLink>
+            {/* <div
               className={`Nav--Group ${
-                this.state.activeSubNav === 'posts' ? 'active' : ''
+                this.state.activeSubNav === 'productions' ? 'active' : ''
               }`}
             >
               <span
                 className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('posts') ||
-                  this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('post-categories')
+                  this.props.location.pathname.includes('productions') ||
+                  this.props.location.pathname.includes('production') ||
+                  this.props.location.pathname.includes('productions-categories')
                     ? 'active'
                     : ''
                 }`}
-                onClick={() => this.toggleSubNav('posts')}
-                onKeyDown={e => this.keyToggleSubNav(e, 'posts')}
+                onClick={() => this.toggleSubNav('productions')}
+                onKeyDown={e => this.keyToggleSubNav(e, 'productions')}
                 tabIndex={0}
                 aria-label="Navigation"
                 role="button"
               >
-                Blog
+                Productions
                 <div className="Nav--GroupLinks">
-                  <NavLink to="/blog/" className="Nav--GroupLink">
-                    All Posts
+                  <NavLink to="/productions/" className="Nav--GroupLink">
+                    All
                   </NavLink>
                   {subNav.posts.map((link, index) => (
                     <NavLink
@@ -108,8 +109,8 @@ export class Navigation extends Component {
                   ))}
                 </div>
               </span>
-            </div>
-            <NavLink to="/default/">Default</NavLink>
+            </div> */}
+            {/* <NavLink to="/default/"></NavLink> */}
             <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button
