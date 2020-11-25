@@ -3,12 +3,7 @@ template: SinglePost
 title: Matinee
 status: Published
 date: '2017-01-01'
-featuredImage: /public/images/17-matinee/2014.jpg
-# excerpt: >-
-#   This is placeholder text that our web designers put here to make sure words
-#   appear properly on your website. This text is going to be replaced once the
-#   website is completed. You are currently reading text that is written in
-#   English, not any other language.
+featuredImage: /images/17-matinee/2014.jpg
 categories:
   - category: '2017'
 meta:
