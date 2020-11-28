@@ -19,7 +19,7 @@ section1: >-
   
   ### Aesthetic & Directing Philosophy
   
-  Communication and harmony are the key for everything.
+  Communication and harmony are the keys to everything.
   
   ### Education
   
