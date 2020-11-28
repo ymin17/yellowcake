@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { graphql } from 'gatsby'
 import Helmet from 'react-helmet'
+import socialImg from "../../static/images/share.jpeg"
 
 export const query = graphql`
   fragment Meta on MarkdownRemark {
@@ -57,7 +58,8 @@ export default class Meta extends Component {
         <meta name="twitter:title" content={siteTitle} />
         <meta name="twitter:image" content={absoluteImageUrl} />
         <meta property="og:image:secure_url" content={absoluteImageUrl} />
-        <meta property="og:image" content={absoluteImageUrl} />
+        <meta property="og:image" content={socialImg} />
+        {/* <meta property="og:image" content={absoluteImageUrl} /> */}
         <meta name="twitter:card" content={absoluteImageUrl} />
 
         {googleTrackingId && (
