@@ -37,4 +37,4 @@ meta:
 
 ![Mozart Selieri](/static/images/18-mozart-salieri/moz12.jpg)
 
-![Mozart Salieri](/static/images/18-mozart-salieri/mozposter.jpg)
+<!-- ![Mozart Salieri](/static/images/18-mozart-salieri/mozposter.jpg) -->

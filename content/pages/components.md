@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: about
 title: About Me
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage:
 subtitle:
 section1: >-
   Born in Seoul, South Korea.

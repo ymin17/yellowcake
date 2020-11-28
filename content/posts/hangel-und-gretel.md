@@ -34,7 +34,6 @@ meta:
 ![Hangel Gretel](/static/images/18-hangel-gretel/5.jpg)
 
 ![Hangel Gretel](/static/images/18-hangel-gretel/8.jpg)
-
-![Hangel Gretel](/static/images/18-hangel-gretel/9.jpg)
+<!-- ![Hangel Gretel](/static/images/18-hangel-gretel/9.jpg) -->
 
 ![Hangel Gretel](/static/images/18-hangel-gretel/poster.jpg)
