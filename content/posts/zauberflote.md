@@ -13,8 +13,6 @@ meta:
   noindex: false
   title: test meta title
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #
 
 ![Magic Flute](/static/images/19-magic-flute/magic1.jpg)

@@ -8,9 +8,6 @@ featuredImage: >-
 categories:
   - category: '2018'
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #
 
 ![The Old Maid and the Theif](/static/images/18-old-maid/maid1.jpg)

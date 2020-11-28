@@ -10,9 +10,6 @@ meta:
   description: test meta description
   title: test meta title
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #
 
 ![Matinee](/static/images/17-matinee/1402.jpg)

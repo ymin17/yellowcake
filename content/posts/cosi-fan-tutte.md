@@ -5,26 +5,8 @@ status: Featured / Published
 date: '2017-11-21'
 featuredImage: /static/images/17-cosi-fan-tutte/cosi-fan-tutte01.jpg
 # 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
-# excerpt: >-
-#   Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-#   interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-#   est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-#   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
   - category: '2017'
-gallery:
-  - alt: yellow rope image
-    image: ../../static/images/17-cosi-fan-tutte/cosi-fan-tutte01.jpg
-    # https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: ../../static/images/17-cosi-fan-tutte/cosi-fan-tutte01.jpg
-    # https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: ../../static/images/17-cosi-fan-tutte/cosi-fan-tutte01.jpg
-    # https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
 meta:
   canonicalLink: ''
   description: test meta description
@@ -32,7 +14,7 @@ meta:
   title: test meta title
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JFFYmZp41RY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #
 

@@ -15,11 +15,6 @@ export default ({ children, meta, title }) => {
         query IndexLayoutQuery {
           settingsYaml {
             siteTitle
-            siteDescription
-            googleTrackingId
-            socialMediaCard {
-              image
-            }
           }
           allPosts: allMarkdownRemark(
             filter: { fields: { contentType: { eq: "postCategories" } } }
@@ -39,7 +34,7 @@ export default ({ children, meta, title }) => {
         }
       `}
       render={data => {
-        const { siteTitle, socialMediaCard, googleTrackingId } =
+        const { siteTitle } =
             data.settingsYaml || {},
           subNav = {
             posts: data.allPosts.hasOwnProperty('edges')
@@ -61,7 +56,7 @@ export default ({ children, meta, title }) => {
               {/* Add font link tags here */}
             </Helmet>
 
-            <Meta
+            {/* <Meta
               googleTrackingId={googleTrackingId}
               absoluteImageUrl={
                 socialMediaCard &&
@@ -70,7 +65,7 @@ export default ({ children, meta, title }) => {
               }
               {...meta}
               {...data.settingsYaml}
-            />
+            /> */}
 
             <Nav subNav={subNav} />
 
