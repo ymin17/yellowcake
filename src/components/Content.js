@@ -55,6 +55,7 @@ const MyImage = ({ nodeKey, src, title, alt }) => {
 }
 
 const HtmlBlock = ({ value }) => {
+  console.log(value, "<<-- value")
   if (value.indexOf('<iframe') !== 0) return value
   return (
     <div

@@ -1,7 +1,7 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
+title: Contact
 subtitle: 
 meta:
   description: This is a meta description.

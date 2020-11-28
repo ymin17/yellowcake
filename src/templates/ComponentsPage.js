@@ -44,13 +44,13 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
 
-    <section className="section">
+    {/* <section className="section">
       <div className="container">
         <Popup>
           <Content source={section1} />
         </Popup>
       </div>
-    </section>
+    </section> */}
   </main>
 )
 
